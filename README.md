@@ -1,6 +1,6 @@
 <!-- Bubu a la derecha -->
 <p align="center">
-  <img align="bottom" width="300px" alt="Bubu eating on computer" src="https://media.tenor.com/Ck-OOIzPHwUAAAAi/bubu-eating-on-computer-eating.gif" />
+  <img align="right" width="300px" alt="Bubu eating on computer" src="https://media.tenor.com/Ck-OOIzPHwUAAAAi/bubu-eating-on-computer-eating.gif" />
 </p>
 
 <!-- Título con saludo animado -->
