@@ -1,27 +1,23 @@
-<!-- Bubu a la derecha -->
-<p align="center">
-  <img align="right" width="300px" alt="Bubu eating on computer" src="https://media.tenor.com/Ck-OOIzPHwUAAAAi/bubu-eating-on-computer-eating.gif" />
-</p>
 
-<!-- Título con saludo animado -->
+<!-- Título con saludo animado   <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px"   <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="60px" />
+  <img src="https://media.tenor.com/Gg6TH2YU9SMAAAAj/ramen-cute-ramen.gif" width="80px" /> />-->
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">, I'm Catalina Olivares   <img src="https://media.tenor.com/rkAEqes681cAAAAj/purple-heart-purple.gif" width="50px" />
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">, I'm Catalina Olivares
+  <img src="https://media.tenor.com/rkAEqes681cAAAAj/purple-heart-purple.gif" width="50px" />
 </h1>
+<img align="right" valign="bottom" width="300px" alt="Bubu eating on computer" src="https://media.tenor.com/Ck-OOIzPHwUAAAAi/bubu-eating-on-computer-eating.gif" style="margin-left: 15px; margin-bottom: 15px;" />
 
-<!-- Subtítulo -->
-<h3 align="center">
+<p align="center">
+
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" alt="about me icon">
   Computer Science Engineer | AI Enthusiast | Legacy Code Modernizer
-  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
-  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="60px" />
-  <img src="https://media.tenor.com/Gg6TH2YU9SMAAAAj/ramen-cute-ramen.gif" width="80px" />
-</h3>
+  
+</p>
 
 
-
----
 
 <!-- Tech Stack -->
+
 ### 🚀 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
@@ -64,7 +60,6 @@
   <img src="https://media.tenor.com/h5F7PZhXNisAAAAj/star.gif" width="70px" alt="cute star animation" />
   <img src="https://media.tenor.com/KF5jT1bsTU0AAAAj/heart.gif" width="50px" />
   <img src="https://media.tenor.com/KF5jT1bsTU0AAAAj/heart.gif" width="50px" />
-  
   
 </p>
 
