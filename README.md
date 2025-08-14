@@ -1,17 +1,20 @@
 <!-- Bubu a la derecha -->
 <p align="center">
-  <img align="right" width="300px" alt="Bubu eating on computer" src="https://media.tenor.com/Ck-OOIzPHwUAAAAi/bubu-eating-on-computer-eating.gif" />
+  <img align="bottom" width="300px" alt="Bubu eating on computer" src="https://media.tenor.com/Ck-OOIzPHwUAAAAi/bubu-eating-on-computer-eating.gif" />
 </p>
 
 <!-- Título con saludo animado -->
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">, I'm Catalina Olivares
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand">, I'm Catalina Olivares   <img src="https://media.tenor.com/rkAEqes681cAAAAj/purple-heart-purple.gif" width="50px" />
 </h1>
 
 <!-- Subtítulo -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" alt="about me icon">
   Computer Science Engineer | AI Enthusiast | Legacy Code Modernizer
+  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="60px" />
+  <img src="https://media.tenor.com/Gg6TH2YU9SMAAAAj/ramen-cute-ramen.gif" width="80px" />
 </h3>
 
 
@@ -31,18 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" alt="AWS" />
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/0p54Ll3ekM0AAAAj/cute-cat.gif" width="80px" />
-  <img src="https://media.tenor.com/Gg6TH2YU9SMAAAAj/ramen-cute-ramen.gif" width="80px" />
-</p>
-
 ---
 
 <!-- About Me con GIF a la derecha y Sailor Moon arriba izquierda -->
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="100px" />
+    <td valign="center">
+      <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="300px" />
     </td>
     <td valign="top">
 
@@ -53,7 +51,7 @@
 - 📚 Lifelong learner, always hustling & improving
 
     </td>
-    <td valign="top">
+    <td valign="center">
       <img src="https://media.tenor.com/suYddJa-q34AAAAj/hxh.gif" width="300px" />
     </td>
   </tr>
@@ -74,7 +72,7 @@
 
 <!-- Connect -->
 <h2 align="center">
-  Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+   <img src="https://media.tenor.com/0p54Ll3ekM0AAAAj/cute-cat.gif" width="80px" /> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 </h2>
 
 <p align="center">
@@ -84,9 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
-  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="60px" />
-</p>
+
 
 ---
 
@@ -115,6 +111,6 @@
 
 <p align="center">
   <img src="https://media.tenor.com/JyuRkIuKSzsAAAAj/heart-cute.gif" width="50px" />
-  <img src="https://media.tenor.com/rkAEqes681cAAAAj/purple-heart-purple.gif" width="50px" />
-  <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="70px" />
+
+
 </p>
