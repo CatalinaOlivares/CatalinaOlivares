@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td valign="center">
-      <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="300px" />
+      <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="200px" />
     </td>
     <td valign="top">
 
@@ -48,7 +48,7 @@
 
     </td>
     <td valign="center">
-      <img src="https://media.tenor.com/suYddJa-q34AAAAj/hxh.gif" width="300px" />
+      <img src="https://media.tenor.com/suYddJa-q34AAAAj/hxh.gif" width="200px" />
     </td>
   </tr>
 </table>
