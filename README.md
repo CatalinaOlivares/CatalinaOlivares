@@ -1,6 +1,6 @@
 <!-- Header animado con gradiente -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Legacy%20Code%20Modernizer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI/ML%20Researcher%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Saludo con animaciones -->
@@ -13,16 +13,16 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Legacy+System+Modernization+Expert+%F0%9F%9A%80;Teaching+Future+Engineers+%F0%9F%93%9A;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Science+Engineer+USACH+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Reinforcement+Learning+Researcher+%F0%9F%A7%A0;Teaching+Robotics+%26+Programming+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Cute divider -->
+<!-- Cute divider con más GIFs kawaii -->
 <p align="center">
-  <img src="https://media.tenor.com/KF5jT1bsTU0AAAAj/heart.gif" width="40px" />
+  <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="60px" />
   <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
   <img src="https://media.tenor.com/Gg6TH2YU9SMAAAAj/ramen-cute-ramen.gif" width="60px" />
-  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/suYddJa-q34AAAAj/hxh.gif" width="60px" />
   <img src="https://media.tenor.com/KF5jT1bsTU0AAAAj/heart.gif" width="40px" />
 </p>
 
@@ -33,43 +33,60 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" alt="about"> About Me
 
-🎓 **Computer Science Engineer** @ Universidad de Santiago de Chile (USACH)
-- 🔭 Currently working on **AI/ML Projects & Legacy System Migration**
-- 🌱 Deep diving into **Reinforcement Learning & Neural Networks**
-- 👩‍🏫 Teaching **Programming & Robotics** to future engineers
-- 💼 Modernizing enterprise applications (VB6 → C# .NET)
-- 🎯 Focus: **Automatic Algorithm Generation for TSP problems**
-- ⚡ Fun fact: I love anime, ramen, and solving complex algorithms!
+🎓 **Computer Science Engineering Student** @ Universidad de Santiago de Chile (USACH)
+- 🤖 **AI Focus**: Researching automatic algorithm generation using ML
+- 🧬 **Thesis**: Developing innovative solutions for TSP optimization problems
+- 🔬 Currently deep diving into **Reinforcement Learning & Neural Networks**
+- 👩‍🏫 Teaching **Programming & Robotics** to inspire future engineers
+- 💼 Experience in **Full Stack Development** and **System Migration**
+- 🎯 Passionate about **Machine Learning**, **Data Science** & **AI Applications**
+- ⚡ Fun fact: Anime enthusiast, ramen lover, and algorithm optimizer!
 
-### 🏆 Highlights
-- 🚀 **3+ years** modernizing legacy systems in production
-- 🤖 Building ML models for optimization problems
-- 📊 Experienced with **microservices architecture** & cloud deployment
-- 🎮 Creating educational robotics content for students
+### 🎯 Current Focus
+- 🧠 **Main Research**: Automatic Algorithm Generation using AI/ML
+- 📊 Implementing **Machine Learning** models for complex optimization
+- 🚀 Building scalable **microservices** and cloud-native applications
+- 🎮 Creating educational content for **robotics** and programming
 
 <br clear="right"/>
 
 ---
 
-<!-- Featured Projects Section -->
+<!-- Featured Projects Section con emojis mejorados -->
 ## 🌟 Featured Projects
 
 <div align="center">
   
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 🧬 **Thesis - GAA** | Automatic Algorithm Generation for TSP using ML | Python, TensorFlow, GA | [Private Repo] |
-| 🎯 **BotoneraGeko** | Enterprise Queue Management System Migration | C#, .NET, Socket.IO | [Private Repo] |
-| 🤖 **Machine Learning Labs** | Collection of ML implementations & experiments | Python, Jupyter, scikit-learn | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/Machine-Learning) |
-| ⚙️ **Microservices** | Distributed system with Spring Cloud | Java, Spring Boot, Docker | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/Tingeso2) |
+| 🧬 **Thesis - GAA** | Automatic Algorithm Generation for TSP using Machine Learning | Python, TensorFlow, GA | [🔒 Private] |
+| 🤖 **Machine Learning** | Collection of ML implementations, labs & experiments | Python, Jupyter, scikit-learn | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/Machine-Learning) |
+| ⚙️ **Microservices Tingeso** | Distributed system implementation with Spring Cloud | Java, Spring Boot, Docker | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/Tingeso2) |
+| 🎯 **BotoneraGeko** | Enterprise Queue Management System | C#, .NET, Socket.IO | [🔒 Private] |
+| 💻 **Parallel Systems** | Distributed & parallel computing implementations | C++, MPI, OpenMP | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/lab3paralelos) |
 | 🌐 **Portfolio** | Personal portfolio website | HTML, CSS, JavaScript | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/catalinaolivares.github.io) |
 
 </div>
 
 ---
 
-<!-- Tech Stack mejorado con categorías -->
+<!-- Tech Stack mejorado con categorías y más iconos -->
 ## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+</details>
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -82,6 +99,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 </details>
 
@@ -91,6 +109,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -108,6 +127,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 </details>
 
@@ -120,6 +140,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 </details>
 
@@ -133,19 +154,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 </details>
 
@@ -179,48 +188,56 @@
 
 ---
 
-<!-- Current Focus -->
-## 🎯 Current Focus & Learning
+<!-- Current Focus con emojis más kawaii -->
+## 🎯 Currently Working On
 
 <div align="center">
   
-| 🚀 Working On | 📚 Learning | 🎮 Exploring |
-|--------------|-------------|--------------|
-| Thesis: Automatic Algorithm Generation | Advanced Reinforcement Learning | Quantum Computing Basics |
-| Legacy System Migration (VB6 → .NET) | Graph Neural Networks | WebAssembly |
-| Educational Robotics Platform | MLOps & Model Deployment | Rust Programming |
+| 🚀 Research & Development | 📚 Learning | 🌟 Next Goals |
+|--------------------------|-------------|---------------|
+| 🧬 Thesis: Automatic Algorithm Generation for TSP | 🧠 Advanced Reinforcement Learning | 🤖 Deploy ML Models to Production |
+| 🤖 Machine Learning Model Optimization | 📊 Graph Neural Networks | 🌐 Contribute to Open Source AI Projects |
+| 🎓 Educational Robotics Platform | 🔮 Quantum Computing Basics | 📝 Publish Research Papers |
+| 💻 Full Stack Applications with AI Integration | 🦀 Rust Programming | 🚀 MLOps & Model Deployment |
 
 </div>
 
 ---
 
-<!-- Fun Section -->
+<!-- Fun Section con más detalles -->
 ## 🌸 Fun Zone
 
-<details>
-<summary><b>🎌 Anime Favorites</b></summary>
+<table align="center">
+<tr>
+<td>
 
-- 🌙 Sailor Moon (Obviously! 💜)
-- 🎯 Hunter x Hunter
-- 🍜 Naruto
-- ⚔️ Attack on Titan
-- 🏐 Haikyuu!!
-</details>
+### 🎌 Anime Favorites
+- 🌙 **Sailor Moon** (Obviously! 💜)
+- 🎯 **Hunter x Hunter**
+- 🍜 **Naruto/Boruto**
+- ⚔️ **Attack on Titan**
+- 🏐 **Haikyuu!!**
+- 🗡️ **Demon Slayer**
 
-<details>
-<summary><b>🎮 When Not Coding</b></summary>
+</td>
+<td>
 
-- 🍜 Trying new ramen places
-- 🎨 Digital art & design
-- 📚 Reading sci-fi novels
-- 🎮 Gaming (RPGs mostly!)
+### 🎮 Hobbies
+- 🍜 Trying new ramen recipes
+- 🎨 Digital art & design  
+- 📚 Sci-fi & fantasy books
+- 🎮 RPG Gaming
 - 🏃‍♀️ Running & yoga
-</details>
+- 🧩 Solving algorithms for fun
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- Snake animation -->
-## 🐍 Contribution Snake
+<!-- Snake animation con título kawaii -->
+## 🐍 My Contribution Snake is Hungry!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -228,12 +245,15 @@
 
 ---
 
-<!-- Connect Section con estilo mejorado -->
+<!-- Connect Section con más GIFs kawaii -->
 ## 💌 Let's Connect!
 
 <div align="center">
   <img src="https://media.tenor.com/0p54Ll3ekM0AAAAj/cute-cat.gif" width="80px" />
+  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
+  <img src="https://media.tenor.com/0p54Ll3ekM0AAAAj/cute-cat.gif" width="80px" />
 </div>
 
 <p align="center">
@@ -253,10 +273,11 @@
 
 ---
 
-<!-- Visitor Count -->
+<!-- Visitor Count Corregido -->
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
-  <img src="https://profile-counter.glitch.me/catalinaolivares/count.svg" alt="Visitor Count" />
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=catalinaolivares&color=9D4EDD&style=for-the-badge)
   
   <br><br>
   
@@ -266,7 +287,13 @@
   
   <br><br>
   
-  <i>⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>⭐ "The best way to predict the future is to invent it." - Alan Kay</i>
+  
+  <br><br>
+  
+  ### 💜 Keep coding and stay kawaii! 💜
+  
+  <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="80px" />
 </div>
 
 <!-- Footer -->
