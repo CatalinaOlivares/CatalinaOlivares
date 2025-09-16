@@ -17,13 +17,13 @@
   </a>
 </p>
 
-<!-- Cute divider con GIFs kawaii ORIGINALES -->
+<!-- Aesthetic pixel hearts divider -->
 <p align="center">
-  <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="60px" />
-  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
-  <img src="https://media.tenor.com/Gg6TH2YU9SMAAAAj/ramen-cute-ramen.gif" width="60px" />
-  <img src="https://media.tenor.com/suYddJa-q34AAAAj/hxh.gif" width="60px" />
-  <img src="https://media.tenor.com/KF5jT1bsTU0AAAAj/heart.gif" width="40px" />
+  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
+  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
+  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
+  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
+  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
 </p>
 
 ---
