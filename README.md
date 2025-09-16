@@ -17,13 +17,15 @@
   </a>
 </p>
 
-<!-- Aesthetic pixel hearts divider -->
+<!-- Aesthetic flowers divider -->
 <p align="center">
-  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
-  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
-  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
-  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
-  <img src="https://i.imgur.com/Rbh7KCn.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
+  <img src="https://media.tenor.com/O1giINuZjxAAAAAj/flowers.gif" width="50px" />
 </p>
 
 ---
