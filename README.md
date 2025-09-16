@@ -1,6 +1,6 @@
-<!-- Header animado con gradiente PÚRPURA -->
+<!-- Header animado con gradiente MORADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20Manager%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20Manager%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&fontColor=FFFFFF" />
 </div>
 
 <!-- Saludo con animaciones ORIGINALES -->
@@ -297,8 +297,8 @@ mindmap
   
 </div>
 
-<!-- Footer PÚRPURA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
+<!-- Footer MORADO -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=100&section=footer" />
 
 <!-- Hidden Sailor Moon Easter Egg -->
 <!-- 
