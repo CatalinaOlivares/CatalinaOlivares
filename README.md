@@ -283,7 +283,7 @@ mindmap
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
   
-  ![](https://hit.yhype.me/github/profile?user_id=83724947)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=catalinaolivares&color=9D4EDD&style=for-the-badge)
   
   <br><br>
   
