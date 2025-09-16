@@ -1,6 +1,6 @@
 <!-- Header animado con gradiente -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI/ML%20Researcher%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20Manager%20%7C%20ML%20Researcher&descAlignY=55&descSize=18" />
 </div>
 
 <!-- Saludo con animaciones -->
@@ -13,7 +13,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Computer+Science+Engineer+USACH+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;Reinforcement+Learning+Researcher+%F0%9F%A7%A0;Teaching+Robotics+%26+Programming+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=AI+Manager+%26+ML+Researcher+%F0%9F%A4%96;Computer+Science+Engineer+USACH+%F0%9F%8E%93;Reinforcement+Learning+Enthusiast+%F0%9F%A7%A0;Teaching+Robotics+%26+Programming+%F0%9F%93%9A;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,11 +34,11 @@
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" alt="about"> About Me
 
 🎓 **Computer Science Engineering Student** @ Universidad de Santiago de Chile (USACH)
-- 🤖 **AI Focus**: Researching automatic algorithm generation using ML
-- 🧬 **Thesis**: Developing innovative solutions for TSP optimization problems
-- 🔬 Currently deep diving into **Reinforcement Learning & Neural Networks**
+- 🤖 **AI Manager**: Leading AI/ML initiatives and research projects
+- 🧬 **Thesis**: Developing automatic algorithm generation solutions for TSP optimization
+- 🔬 Deep diving into **Reinforcement Learning & Neural Networks**
 - 👩‍🏫 Teaching **Programming & Robotics** to inspire future engineers
-- 💼 Experience in **Full Stack Development** and **System Migration**
+- 💼 Experience in **System Architecture** and **Legacy System Migration**
 - 🎯 Passionate about **Machine Learning**, **Data Science** & **AI Applications**
 - ⚡ Fun fact: Anime enthusiast, ramen lover, and algorithm optimizer!
 
@@ -177,7 +177,10 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=catalinaolivares&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF" />
 </div>
 
----
+<!-- AI Separator -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <!-- Trophies -->
 ## 🏆 GitHub Trophies
@@ -186,7 +189,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=catalinaolivares&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
 
----
+<!-- Purple line separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <!-- Current Focus con emojis más kawaii -->
 ## 🎯 Currently Working On
@@ -198,11 +204,14 @@
 | 🧬 Thesis: Automatic Algorithm Generation for TSP | 🧠 Advanced Reinforcement Learning | 🤖 Deploy ML Models to Production |
 | 🤖 Machine Learning Model Optimization | 📊 Graph Neural Networks | 🌐 Contribute to Open Source AI Projects |
 | 🎓 Educational Robotics Platform | 🔮 Quantum Computing Basics | 📝 Publish Research Papers |
-| 💻 Full Stack Applications with AI Integration | 🦀 Rust Programming | 🚀 MLOps & Model Deployment |
+| 💻 AI-Powered Applications | 🦀 Rust Programming | 🚀 MLOps & Model Deployment |
 
 </div>
 
----
+<!-- Aesthetic purple separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <!-- Fun Section con más detalles -->
 ## 🌸 Fun Zone
@@ -234,7 +243,10 @@
 </tr>
 </table>
 
----
+<!-- Elegant separator -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <!-- Snake animation con título kawaii -->
 ## 🐍 My Contribution Snake is Hungry!
@@ -243,17 +255,16 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
----
+<!-- Aesthetic line separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <!-- Connect Section con más GIFs kawaii -->
 ## 💌 Let's Connect!
 
 <div align="center">
-  <img src="https://media.tenor.com/0p54Ll3ekM0AAAAj/cute-cat.gif" width="80px" />
-  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-  <img src="https://media.tenor.com/H1MYBHoYnHYAAAAj/bow.gif" width="60px" />
-  <img src="https://media.tenor.com/0p54Ll3ekM0AAAAj/cute-cat.gif" width="80px" />
+  <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="80px" />
 </div>
 
 <p align="center">
@@ -287,13 +298,8 @@
   
   <br><br>
   
-  <i>⭐ "The best way to predict the future is to invent it." - Alan Kay</i>
+  <i>⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
   
-  <br><br>
-  
-  ### 💜 Keep coding and stay kawaii! 💜
-  
-  <img src="https://media.tenor.com/xjj2Bt60AQcAAAAj/sailor-moon-heart-eyes.gif" width="80px" />
 </div>
 
 <!-- Footer -->
