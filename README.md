@@ -1,6 +1,6 @@
 <!-- Header animado con gradiente PÚRPURA -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,32,36,40&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20Manager%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Catalina%20Olivares&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20%7C%20AI%20Manager%20%7C%20Machine%20Learning&descAlignY=55&descSize=18&fontColor=FFFFFF" />
 </div>
 
 <!-- Saludo con animaciones ORIGINALES -->
@@ -283,7 +283,7 @@ mindmap
 <div align="center">
   <h3>✨ Thanks for visiting! ✨</h3>
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=catalinaolivares&color=9D4EDD&style=for-the-badge)
+  ![](https://hit.yhype.me/github/profile?user_id=83724947)
   
   <br><br>
   
@@ -298,7 +298,7 @@ mindmap
 </div>
 
 <!-- Footer PÚRPURA -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,32,36,40&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" />
 
 <!-- Hidden Sailor Moon Easter Egg -->
 <!-- 
