@@ -33,7 +33,7 @@
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" alt="about"> About Me
 
-🎓 **Computer Science Engineering Student** @ Universidad de Santiago de Chile (USACH)
+🎓 **Computer Science Engineer** @ Universidad de Santiago de Chile (USACH)
 - 🤖 **AI Manager**: Leading AI/ML initiatives and research projects
 - 🧬 **Thesis**: Developing automatic algorithm generation solutions for TSP optimization
 - 🔬 Deep diving into **Reinforcement Learning & Neural Networks**
@@ -152,6 +152,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -177,9 +178,9 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=catalinaolivares&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF" />
 </div>
 
-<!-- Aesthetic separator -->
+<!-- Aesthetic purple separator -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto; filter: hue-rotate(270deg) saturate(3) brightness(0.8);">
 </div>
 
 <!-- Trophies -->
@@ -191,10 +192,37 @@
 
 <!-- Purple line separator -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto; filter: hue-rotate(270deg) saturate(3) brightness(0.8);">
 </div>
 
-<!-- Current Focus -->
+<!-- Current Focus con Mermaid Diagram -->
+## 🔮 Current Quest
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+mindmap
+  root((AI Research))
+    🧬 Thesis
+      Automatic Algorithm Generation
+      TSP Optimization
+      Machine Learning Models
+    📚 Learning
+      Reinforcement Learning
+      Graph Neural Networks
+      Quantum Computing
+      MLOps
+    🎯 Goals
+      Deploy ML to Production
+      Open Source Contributions
+      Research Publications
+      AI Innovation
+```
+
+</div>
+
+<!-- Currently Working On Table -->
 ## 🎯 Currently Working On
 
 <div align="center">
@@ -220,9 +248,9 @@
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-<!-- Aesthetic line separator -->
+<!-- Aesthetic purple line separator -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; height: auto; filter: hue-rotate(270deg) saturate(3) brightness(0.8);">
 </div>
 
 <!-- Connect Section con GIF de Sailor Moon -->
