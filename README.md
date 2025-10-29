@@ -66,7 +66,7 @@
 | ⚙️ **Microservices Tingeso** | Distributed system implementation with Spring Cloud | Java, Spring Boot, Docker | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/Tingeso2) |
 | 🎯 **BotoneraGeko** | Enterprise Queue Management System | C#, .NET, Socket.IO | [🔒 Private] |
 | 💻 **Parallel Systems** | Distributed & parallel computing implementations | C++, MPI, OpenMP | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/lab3paralelos) |
-| 🌐 **Portfolio** | Personal portfolio website | HTML, CSS, JavaScript | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://github.com/CatalinaOlivares/catalinaolivares.github.io) |
+| 🌐 **Portfolio** | Personal portfolio website | HTML, CSS, JavaScript | [![GitHub](https://img.shields.io/badge/Code-View-purple?style=flat&logo=github)](https://catalina-olivares.vercel.app) |
 
 </div>
 
